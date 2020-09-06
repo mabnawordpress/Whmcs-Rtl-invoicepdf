@@ -1,4 +1,4 @@
-# Whmcs-Rtl-invoicepdf
+# Whmcs Rtl Invoicepdf
 فایل قالب pdf راستچین برای فاکتور whmcs
 کافیست این فایل را جایگزین فایل invoicepdf.tpl در پوشه قالب whmcs خود کنید
 نمونه کار انجام شده :
